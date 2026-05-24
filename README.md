@@ -1,6 +1,4 @@
 # AI-Workforce-Retention-Dashboard
-AI-Powered HR Analytics dashboard analyzing employee attrition using Excel, Tableau and Power BI
-# AI-Powered Workforce Retention & Talent Flight Analytics Dashboard
 
 ## Project Overview
 An AI-powered workforce analytics dashboard that helps 
