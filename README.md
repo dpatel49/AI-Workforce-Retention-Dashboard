@@ -48,4 +48,4 @@ IBM HR Analytics Employee Attrition Dataset
 - pdf/ — Exported dashboard PDF
 
 ## Live Dashboard
-Tableau Public Link: 
+Tableau Public Link: https://umbc-my.sharepoint.com/:u:/g/personal/dpatel49_umbc_edu/IQDxcdKqcBQZRbr9ROLFCNgZATSPqE4jkJMGmlUnyPNEF0k?e=jWfIoI
